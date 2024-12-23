@@ -8,4 +8,9 @@
 2. Install [Godot Engine](https://godotengine.org/download) if you plan to explore or modify the source code.
 3. Run the executable (`ArmorDash.exe` or equivalent) to play.
 
+## Controls
+- **Move Left:** `Left Arrow` or `A`
+- **Move Right:** `Right Arrow` or `D`
+- **Jump:** `Space` or `Up Arrow` or `W` 
+
 Dash to victory in **Armor Dash** and show the world your knightly powers!
