@@ -1,13 +1,11 @@
-[gd_scene load_steps=4 format=3 uid="uid://cr0o181gi8qeu"]
+[gd_scene load_steps=3 format=3 uid="uid://cr0o181gi8qeu"]
 
 [ext_resource type="Texture2D" uid="uid://ceox85samaowl" path="res://assets/sprites/platforms.png" id="1_0esgt"]
-[ext_resource type="Script" path="res://scripts/platform.gd" id="1_leb2x"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_sahkd"]
 size = Vector2(30, 8)
 
 [node name="AnimatableBody2D" type="AnimatableBody2D"]
-script = ExtResource("1_leb2x")
 
 [node name="Sprite2D" type="Sprite2D" parent="."]
 texture = ExtResource("1_0esgt")
